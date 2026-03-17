@@ -12,13 +12,13 @@ Bu proje, React ile geliştirilen temel bir arayüz üzerinde API kullanımı, s
 
 Uygulamanın başlangıç görünümü:
 
-<img src="./images/home.png" alt="Ana ekran" width="600" />
+<img src="./currency-app/images/home.png" alt="Ana ekran" width="600" />
 
 ### Örnek Dönüşüm
 
 Seçilen tutarın bir para biriminden diğerine çevrildiği örnek görünüm:
 
-<img src="./images/used.png" alt="Örnek dönüşüm" width="600" />
+<img src="./currency-app/images/used.png" alt="Örnek dönüşüm" width="600" />
 
 
 ## Kullanılan Teknolojiler
